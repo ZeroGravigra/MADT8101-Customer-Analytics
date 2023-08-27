@@ -1,11 +1,15 @@
 # Customer Lifetime Value
 Customer lifetime value (CLV or CLTV) is a metric that represents the total net profit a company can expect to generate from a customer throughout their entire relationship. It takes into account the customer’s initial purchase, repeat purchases, and the average duration of their relationship with the company. [1] 
-In this study, CLTV was use to understand
+
+In this study, CLTV was use to understand customer behavior in dimension of business's profit and loss and develop the business strategy.
 
 ## Case Study
-Superstore Dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?datasetId=1940216
+Superstore Giant is a US Company that sales Furniture, Office Supplies and Technological products to 3 segment of customer
+* Consumer
+* Home Office
+* Corporate
 
-# Case Study
+Superstore Dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?datasetId=1940216
 
 
 
