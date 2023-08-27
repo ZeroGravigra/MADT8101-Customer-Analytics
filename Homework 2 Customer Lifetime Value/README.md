@@ -16,8 +16,10 @@ The given data set from Kaggle was import to Google BigQuery. The data was aggre
 
 <img width="782" alt="EX Customer Single View" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/b4086c28-7724-4cfb-8b4e-fb56eb0dbb36">
 
+<br>
+<br>
 From customer single view, I found the negative profit in each segment.
-
+<br>
 <img width="388" alt="CLTV by Segment and Profit" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/7d035f6d-a6ef-448a-8628-20db452026ad">
 
 
