@@ -12,7 +12,7 @@ Superstore Giant is a US Company that sales Furniture, Office Supplies and Techn
 Superstore Dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?datasetId=1940216
 
 ## Data Processing
-The given data set from Kaggle was import to Google BigQuery. The data was aggregate to create customer single view by [create customer single view](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/8c4f2b4b32c22756ccd695886b772e70ce8283bf/Homework%202%20Customer%20Lifetime%20Value/create%20customer%20single%20view.sql)
+The given data set from Kaggle was import to Google BigQuery. Then it was aggregate to create customer single view by [create customer single view](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/8c4f2b4b32c22756ccd695886b772e70ce8283bf/Homework%202%20Customer%20Lifetime%20Value/create%20customer%20single%20view.sql)
 
 <img width="782" alt="EX Customer Single View" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/b4086c28-7724-4cfb-8b4e-fb56eb0dbb36">
 
@@ -23,9 +23,9 @@ From customer single view, I found the negative profit in each segment.
 
 By focusing on CLTV and Life span of customer, we can divide customer into 4 group
 * High CLTV and long Life span - 
-* High CLTV and short Life span
-* Low CLTV and long Life span
-* Low CLTV and short Life span
+* High CLTV and short Life span - 
+* Low CLTV and long Life span - 
+* Low CLTV and short Life span - 
   
 <img width="562" alt="CLTV and LifeSpan Metrix" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/532de39c-437a-41cc-91c4-0a6b6ded2059">
 
