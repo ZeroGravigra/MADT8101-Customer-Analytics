@@ -21,11 +21,19 @@ From customer single view, I found the negative profit in each segment.
 
 <img width="388" alt="CLTV by Segment and Profit" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/7d035f6d-a6ef-448a-8628-20db452026ad">
 
+By focusing on CLTV and Life span of customer, we can divide customer into 4 group
+* High CLTV and long Life span - 
+* High CLTV and short Life span
+* Low CLTV and long Life span
+* Low CLTV and short Life span
+  
+<img width="562" alt="CLTV and LifeSpan Metrix" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/532de39c-437a-41cc-91c4-0a6b6ded2059">
 
 
 # Reference
 [What Is Customer Lifetime Value? The Complete Guide To CLV (2023)] (https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
 * Customer Lifetime Value Analysis : https://www.kaggle.com/code/amirmotefaker/customer-lifetime-value-analysis
 * ANALYSIS OF SUPERSTORE GIANT SALES : https://medium.com/@raufrukayat/analysis-of-superstore-giant-sales-dc7d0aa5a500
+* Customer Lifetime Value Analytics: Case Study : https://www.kaggle.com/datasets/bhanupratapbiswas/customer-lifetime-value-analytics-case-study
 
 [1. What Is Customer Lifetime Value? The Complete Guide To CLV (2023)](https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
