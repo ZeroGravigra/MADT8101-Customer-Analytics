@@ -10,7 +10,8 @@ Superstore Dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset
 
 
 # Reference
-[1] [What Is Customer Lifetime Value? The Complete Guide To CLV (2023)] (https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
+[What Is Customer Lifetime Value? The Complete Guide To CLV (2023)] (https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
 * Customer Lifetime Value Analysis : https://www.kaggle.com/code/amirmotefaker/customer-lifetime-value-analysis
 * ANALYSIS OF SUPERSTORE GIANT SALES : https://medium.com/@raufrukayat/analysis-of-superstore-giant-sales-dc7d0aa5a500
 
+[What Is Customer Lifetime Value? The Complete Guide To CLV (2023)](ttps://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
