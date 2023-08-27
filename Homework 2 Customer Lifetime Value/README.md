@@ -11,7 +11,8 @@ Superstore Giant is a US Company that sales Furniture, Office Supplies and Techn
 
 Superstore Dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?datasetId=1940216
 
-
+## Data Processing
+The given data set from Kaggle was import to Google BigQuery. The data was aggregate to create customer single view by [create customer single view](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/8c4f2b4b32c22756ccd695886b772e70ce8283bf/Homework%202%20Customer%20Lifetime%20Value/create%20customer%20single%20view.sql)
 
 # Reference
 [What Is Customer Lifetime Value? The Complete Guide To CLV (2023)] (https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
