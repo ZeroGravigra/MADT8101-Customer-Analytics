@@ -15,4 +15,8 @@
 <img width="998" alt="CDP Customer Single View 2" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/2add9c43-fd9b-4f06-9e62-d130d118e351">
 
 ## Member Group
+
+* [Gaidee] (https://github.com/KaninJC)
+* [ChampAnuwat] (https://github.com/ChampAnuwat)
+* [pppondm]
 <img width="998" alt="Group member" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/d4e356b2-fbeb-4441-bcf8-c75dc2e0b37f">
