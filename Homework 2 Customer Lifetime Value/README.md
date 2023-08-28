@@ -46,14 +46,13 @@ Based on the analysis, the action was reccommend as following
   * Identify the root cause of negative problem
   * Implement Anomaly detection/Fruad detection
  
-Moreover, customer ID CS-12505 was found to be an outlier from the chart and should quickly investigate on this customer
+Moreover, customer ID CS-12505 was found to be an outlier from the chart and should quickly investigate on this customer.
 
 <img width="565" alt="CLTV and LifeSpan Metrix Outlier" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/6aeae929-3467-4ec6-9d46-5ee634afef8c">
 
 # Reference
-[What Is Customer Lifetime Value? The Complete Guide To CLV (2023)] (https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
 * Customer Lifetime Value Analysis : https://www.kaggle.com/code/amirmotefaker/customer-lifetime-value-analysis
-* ANALYSIS OF SUPERSTORE GIANT SALES : https://medium.com/@raufrukayat/analysis-of-superstore-giant-sales-dc7d0aa5a500
 * Customer Lifetime Value Analytics: Case Study : https://www.kaggle.com/datasets/bhanupratapbiswas/customer-lifetime-value-analytics-case-study
+* Analysis Of Superstore Giant Sales : https://medium.com/@raufrukayat/analysis-of-superstore-giant-sales-dc7d0aa5a500
+  
 
-[1. What Is Customer Lifetime Value? The Complete Guide To CLV (2023)](https://www.shopify.com/blog/what-is-customer-lifetime-value#:~:text=Customer%20lifetime%20value%20(CLV%20or,their%20relationship%20with%20the%20company.))
