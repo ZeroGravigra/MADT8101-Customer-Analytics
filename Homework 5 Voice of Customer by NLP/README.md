@@ -9,8 +9,8 @@ In this study, Natural language processing and topic modeling were use to extrac
 
 ## Case Study
 VOC data was collect from xplORe: Touch for more life application in App Store by sampling 20 comment in Ratings and Reviews
-![xplORe app screen](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/f4eb8c3f-bc0e-4be7-8c33-cdb637b9a1d5)
 
+<img width="650" alt="xplORe app screen" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/0776419e8626a66f494043326304fcda742e3122/Homework%205%20Voice%20of%20Customer%20by%20NLP/Raw%20Data/xplORe%20app%20screen.png">
 
 ## Data Processing
 
