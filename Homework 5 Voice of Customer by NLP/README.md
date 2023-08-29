@@ -17,8 +17,8 @@ xplORe: Touch for more life : https://apps.apple.com/th/app/xplore-touch-for-mor
 [Review App Store - xplORe Touch for more life.csv](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/2133dc6e4775f5b43b35e2da8c43146be2e7b3cf/Homework%205%20Voice%20of%20Customer%20by%20NLP/Raw%20Data/Review%20App%20Store%20-%20xplORe%20Touch%20for%20more%20life.csv)
 
 ## Data Processing
-**Notebooks:** [Topic Modeling](./Topic_Modeling_xplORe.ipynb)  
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/6.TopicModeling/TopicModeling.ipynb)
+**Notebooks :** [Topic Modeling](./Topic_Modeling_xplORe.ipynb)  
+**Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Topic_Modeling_xplORe.ipynb)
 
 ## Analysis and Discussion
 
