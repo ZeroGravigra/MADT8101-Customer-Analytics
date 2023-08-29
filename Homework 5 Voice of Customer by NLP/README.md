@@ -18,7 +18,7 @@ xplORe: Touch for more life : https://apps.apple.com/th/app/xplore-touch-for-mor
 
 ## Data Processing
 **Notebooks :** [Topic Modeling](./Topic_Modeling_xplORe.ipynb)  
-**Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Topic_Modeling_xplORe.ipynb)
+**Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Homework%205%20Voice%20of%20Customer%20by%20NLP/Raw%20Data/Topic_Modeling_xplORe.ipynb)
 
 ## Analysis and Discussion
 
