@@ -21,7 +21,11 @@ xplORe: Touch for more life : https://apps.apple.com/th/app/xplore-touch-for-mor
 **Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Homework%205%20Voice%20of%20Customer%20by%20NLP/Raw%20Data/Topic_Modeling_xplORe.ipynb)
 
 ## Analysis and Discussion
-
+Based on the analysis, VOC was divide into 4 topics
+* Blue card point redeem
+* App stability and error
+* e-wallet connection
+* Deal purchase
 
 ## Business Recommendation
 
