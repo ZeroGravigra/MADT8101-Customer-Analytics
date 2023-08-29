@@ -22,10 +22,14 @@ xplORe: Touch for more life : https://apps.apple.com/th/app/xplore-touch-for-mor
 
 ## Analysis and Discussion
 Based on the analysis, VOC was divide into 4 topics
-* Blue card point redeem
-* App stability and error
-* e-wallet connection
-* Deal purchase
+
+1. App stability and error
+2. Blue card point redeem
+3. Deal purchase
+4. e-wallet connection
+
+<img width="850" alt="Topic distance map" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/528bbabc-2631-4815-bd12-f9582943a52f">
+
 
 ## Business Recommendation
 
