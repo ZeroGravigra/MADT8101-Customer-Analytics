@@ -16,12 +16,11 @@ xplORe: Touch for more life : https://apps.apple.com/th/app/xplore-touch-for-mor
 
 [Review App Store - xplORe Touch for more life.csv](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/2133dc6e4775f5b43b35e2da8c43146be2e7b3cf/Homework%205%20Voice%20of%20Customer%20by%20NLP/Raw%20Data/Review%20App%20Store%20-%20xplORe%20Touch%20for%20more%20life.csv)
 
-## Data Processing
+## Analysis and Discussion
 **Notebooks :** [Topic Modeling](./Topic_Modeling_xplORe.ipynb)  
 **Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Homework%205%20Voice%20of%20Customer%20by%20NLP/Raw%20Data/Topic_Modeling_xplORe.ipynb)
 
-## Analysis and Discussion
-Based on the analysis, VOC was divide into 4 topics
+From topic modeling by using LDA result, VOC was divide into 4 topics
 
 1. App stability and error
 2. Blue card point redeem
@@ -32,7 +31,9 @@ Based on the analysis, VOC was divide into 4 topics
 
 
 ## Business Recommendation
-
+* "App stability and error" and "e-wallet connectionis" are the negative feedback that should investigate and overcome with high priority to maintain active customer and their satisfaction.
+* "Blue card point redeem" and "Deal purchase" are in positive. So, the compamy can use those 2 topic for advertising and marketing.
+* By collecting the most popular product or service in "Blue card point redeem" and "Deal purchase" topic lead to improve product and service that align with customer need.
 
 # Reference
 * https://algoritmaonline.com/topic-modeling-lda/
