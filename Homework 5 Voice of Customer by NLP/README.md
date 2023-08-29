@@ -31,8 +31,8 @@ From topic modeling by using LDA result, VOC was divide into 4 topics
 
 
 ## Business Recommendation
-* "App stability and error" and "e-wallet connectionis" are the negative feedback that should investigate and overcome with high priority to maintain active customer and their satisfaction.
-* "Blue card point redeem" and "Deal purchase" are in positive. So, the compamy can use those 2 topic for advertising and marketing.
+* "App stability and error" and "e-wallet connection" are the negative feedback that should investigate and overcome with high priority to maintain active customer and their satisfaction.
+* "Blue card point redeem" and "Deal purchase" are in positive. So, the company can use those 2 topics for advertising and marketing.
 * By collecting the most popular product or service in "Blue card point redeem" and "Deal purchase" lead to improve product and service that align with customer need.
 
 # Reference
