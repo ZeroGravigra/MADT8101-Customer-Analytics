@@ -28,6 +28,20 @@ The imbalance between churn customer and not churn customer was observed from da
 
 ![No of Customer vs Churn](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/207975d0-9b25-4feb-a221-7aec46a64ac7)
 
+The customer churn scoring models were created by
+* Logistic Regression
+* K-nearest Neighbors
+* Random Forest
+* xgboost
+
+whth 
+* non-sampling
+* Oversampling
+* Undersampling
+* SMOTE
+
+Model created from xgboost without sampling technique gave the best performance, F1 score = 0.950570
+
 
 
 ## Business Recommendation
