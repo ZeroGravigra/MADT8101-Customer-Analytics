@@ -14,7 +14,7 @@ The dataset contain the following information:
 Dataset : [E Commerce Dataset.csv](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/b4655e98244ed383e18cac3bb69176de3bb728bd/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/E%20Commerce%20Dataset.csv)
 
 ## Data Processing
-**Notebooks :** [Churn_Scoring](./Churn_Scoring.ipynb)  
+**Notebooks :** [Churn_Scoring](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/c5b8ec09920fe8200742c9bba15cb068392cdf48/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/Churn_Scoring.ipynb)  
 **Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/Churn_Scoring.ipynb)
 
 
