@@ -31,6 +31,7 @@ The dataset contain the following information:
   
 ![image](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/e3f03648-2679-412e-b91b-5158c62f0963)
 
+Dataset : [E Commerce Dataset.csv](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/b4655e98244ed383e18cac3bb69176de3bb728bd/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/E%20Commerce%20Dataset.csv)
 
 ## Data Processing
 
