@@ -51,7 +51,7 @@ After that,feature importance was performed to evaluate the effect of each varia
 
 ## Business Recommendation
 
-Feature importance is the measure that represent effect of variable on model. For example, tenure is the most effect variable, the higher the tenure, the lower the churn probability was observed. The company can use this information to manipulate customer behaviour. By extend the customer tenure, the company have a chance to lower customer churn propability.
+Feature importance is the measure that represent effect of variable on model. For example, tenure is the most effect variable, the higher the tenure, the lower the churn probability was observed. The company can use this information to manipulate customer behaviour. By extend the customer tenure, the company have a chance to lower customer churn probability..
 
 
 
