@@ -24,6 +24,9 @@ The dataset was processed by using Google Colab notebooks as the following
 * Split dataset to test set and train set with ratio at 0.2
 
 ## Analysis and Discussion
+The imbalance between churn customer and not churn customer was observed from data exploration. In this situation, apply sampling technique should be considerate. 
+
+![No of Customer vs Churn](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/207975d0-9b25-4feb-a221-7aec46a64ac7)
 
 
 
