@@ -15,7 +15,7 @@ Dataset : [E Commerce Dataset.csv](https://github.com/ZeroGravigra/MADT8101-Cust
 
 ## Data Processing
 **Notebooks :** [Churn_Scoring](./Churn_Scoring.ipynb)  
-**Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/e20e514e0dc881273b1db875620c9ea704919eaf/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/Churn_Scoring.ipynb)
+**Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/Churn_Scoring.ipynb)
 
 
 ## Analysis and Discussion
