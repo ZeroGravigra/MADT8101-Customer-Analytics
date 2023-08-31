@@ -19,6 +19,7 @@
 
 [Homework 4 Customer Segmentation and Product Recommendation](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%204%20Customer%20Segmentation%20and%20Product%20Recommendation)\
 ![Generic badge](https://img.shields.io/badge/Modelling-DE3163)
+![Generic badge](https://img.shields.io/badge/Python-orange)
 ![Generic badge](https://img.shields.io/badge/Dataiku-brightgreen)
 ![Generic badge](https://img.shields.io/badge/Clustering-fuchsia)
 ![Generic badge](https://img.shields.io/badge/K_Mean-lightgray)
