@@ -10,18 +10,21 @@
 ![Generic badge](https://img.shields.io/badge/SQL-blue)
 
 [Homework 3 Customer Churn Scoring](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%203%20Customer%20Churn%20Scoring)\
-![Generic badge](https://img.shields.io/badge/Python-blue)
+![Generic badge](https://img.shields.io/badge/Python-orange)
+![Generic badge](https://img.shields.io/badge/Classification-fuchsia)
+
 
 
 [Homework 4 Customer Segmentation and Product Recommendation](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%204%20Customer%20Segmentation%20and%20Product%20Recommendation)\
-![Generic badge](https://img.shields.io/badge/Dataiku-blue)
-![Generic badge](https://img.shields.io/badge/R-<COLOR>.svg)
-![Generic badge](https://img.shields.io/badge/presentation-orange)
+![Generic badge](https://img.shields.io/badge/Dataiku-brightgreen)
+![Generic badge](https://img.shields.io/badge/Clustering-fuchsia)
+![Generic badge](https://img.shields.io/badge/K_Mean-lightgray)
+![Generic badge](https://img.shields.io/badge/Collaborative_filtering-lightgray)
 
 
 [Homework 5 Voice of Customer](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%205%20Voice%20of%20Customer)\
-![Generic badge](https://img.shields.io/badge/Python-blue)
-![Generic badge](https://img.shields.io/badge/NLP-blue)
-![Generic badge](https://img.shields.io/badge/Topic_Modeling-blue)
-
+![Generic badge](https://img.shields.io/badge/Python-orange)
+![Generic badge](https://img.shields.io/badge/NLP-fuchsia)
+![Generic badge](https://img.shields.io/badge/Topic_Modeling-lightgray)
+![Generic badge](https://img.shields.io/badge/LDA-lightgray)
 
