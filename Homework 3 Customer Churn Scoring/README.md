@@ -3,10 +3,10 @@ Customer churn is when customers stop using a product or service. This can be me
 
 Customer Churn Scoring is use customer behaviour to predict which customer is at the high risk of churning that can notice the company to take action before the customers cease their relationship with.
 
-In this study, various analytic model and sampling technique were applied to pedict customer churn scoring and evaluate that which combination give the best result from given dataset. 
+In this study, various analytic model and sampling technique were applied to predict customer churn scoring and evaluate that which combination give the best result from given dataset. 
 
 ## Case Study
-Dataset used for modeling is e-commerce dataset with 5,630 records and 20 columns.
+Dataset used for modelling is e-commerce dataset with 5,630 records and 20 columns.
 The dataset contain the following information:
   
 ![image](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/e3f03648-2679-412e-b91b-5158c62f0963)
@@ -18,11 +18,11 @@ Dataset : [E Commerce Dataset.csv](https://github.com/ZeroGravigra/MADT8101-Cust
 **Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZeroGravigra/MADT8101-Customer-Analytics/blob/main/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/Churn_Scoring.ipynb)
 
 
-The dataset was processed by using Google Colab notebooks as the following
-* Drop the missing value out
-* Transform the category variable to numeric variable by using one-hot encoding technique
-* Perform standard scaling on x variable
-* Split dataset to test set and train set with ratio at 0.2
+The dataset was processed by using Google Colab notebooks as the following : 
+* Drop the missing value out.
+* Transform the category variable to numeric variable by using one-hot encoding technique.
+* Perform standard scaling on x variable.
+* Split dataset to test set and train set with ratio at 0.2.
 
 ## Analysis and Discussion
 The imbalance between churn customer and not churn customer was observed from data exploration. In this situation, apply sampling technique should be considerate. 
@@ -35,7 +35,7 @@ The customer churn scoring models were created by
 * Random Forest
 * xgboost
 
-whth 
+with 
 * non-sampling
 * Oversampling
 * Undersampling
@@ -44,14 +44,14 @@ whth
 Model created from xgboost without sampling technique gave the best performance, F1 score = 0.950570
 
 <img width="650" alt="Model result" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/5f119305-fc7e-4efb-b6c2-0e873e559d8c">
-
-After that,feature importance was performed to evaluate the effect of each variable on the model. Tenure is the most effect variable follow by Complain, MaritalStatus_Single, and PreferedOrderCat_Mobile Phone, respectively.
+   
+After that, feature importance was performed to evaluate the effect of each variable on the model.
 
 <img width="650" alt="Feature Importance" src="https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/assets/136248978/c57b9da5-24cf-4771-a841-48af022689de">
 
 ## Business Recommendation
 
-Feature importance is the measure that represent effect of variable on model. For example, tenure is the most effect variable, the higher the tenure, the lower the churn probability was observed. The company can use this information to manipulate customer behaviour. By extend the customer tenure, the company have a chance to lower customer churn probability..
+Feature importance is the measure that represent effect of variable on model. For example, tenure is the most effect variable, the higher the tenure, the lower the churn probability was observed. The company can use this information to manipulate customer behaviour. By extend the customer tenure, the company have a chance to lower customer churn probability.
 
 
 
