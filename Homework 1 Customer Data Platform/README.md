@@ -1,4 +1,10 @@
 # Customer Data Platform 
+Customer Data Platform (CDP) is a single platform that collect, transform, analyze and delivery customer data to activation the right marketing campaign for customer relationship management.
+In our design, CDP comprise of
+1. Data source that integrate transaction from POS and transaction from CRM operation system together
+2. Data collection and transformation for transform and aggreagate data to ready to be used
+3. Analysis and visualization for extract customer behavior, analyze and make the decision
+4. Acticvation by using marketing automation to active marketing campaign via selected chanel
 
 
 ## Conceptual Design
